@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 093
+# 🦁 XXD Panel 093｜현대 기하 회화
 
 ### 사진을 선명한 모더니즘 기하와 무광 색면으로 재구성합니다
 

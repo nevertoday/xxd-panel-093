@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 093
+# 🦁 XXD Panel 093｜Modern Geometric Painting
 
 ### Compress photographs into vivid modernist geometry and matte colour fields
 

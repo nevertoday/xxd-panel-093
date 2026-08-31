@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 093
+# 🦁 XXD Panel 093｜现代几何画
 
 ### 把照片压缩成鲜明、质朴而高级的现代主义几何色块
 

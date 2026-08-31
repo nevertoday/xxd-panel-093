@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 093
+# 🦁 XXD Panel 093｜モダン幾何学絵画
 
 ### 写真を鮮やかなモダニズム幾何とマットな色面へ再構成
 
