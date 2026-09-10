@@ -11,23 +11,18 @@
 
 ## 样张展示
 
-**16:9 横版左右样张**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版上下样张**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 093 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 照片中的透视、纹理和零碎细节常会掩盖真正值得记住的关系；093 把主体直接压缩为少量几何块面，以平涂、遮挡和色彩节奏重新建立清楚的叙事核心。
