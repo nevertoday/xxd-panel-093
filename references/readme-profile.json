@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 093｜Modern Geometric Painting: compresses the subject, outline, pose and story of a photo into a mid-century modernist flat illustration — the subject itself built from rectangles, trapezoids, triangles, circles and a few free shapes, flattened space made by overlapping and scale rather than perspective, large matte gouache or acrylic colour fields with slightly irregular hand-cut edges, bright colours lifted from the photo (clear blue, lake teal, fresh green, warm yellow, coral, peach, soft violet, cream) and a few words in a humanist mid-century editorial typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-093 or asks for geometric, flat, mid-century modernist or naive editorial illustration from a photo.",
+  "short_description": "现代几何画：把照片压缩成明亮哑光的平涂几何色块，像中世纪现代主义插画",
+  "zh-CN": {
+    "name": "现代几何画",
+    "tagline": "把照片压缩成明亮、哑光、边缘略带手感的现代主义几何色块。",
+    "look": "主体不是被线条描出来，而是直接拆成矩形、梯形、三角形、圆形和少量自由块面，一眼仍能认出原物。空间靠前后遮挡、大小变化和色块叠压来表现，没有真实透视和厚重阴影，像剪纸拼贴一样平。颜色取自照片里最亮最鲜的部分，提亮去灰成清澈蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等，涂成哑光水粉质感，边缘有轻微刷痕。只放极少量标题或短句，用带中世纪印刷味的编辑字体，嵌在留白或沿块面对齐。",
+    "traits": ["几何简化", "扁平空间", "明快取色", "手绘不规则边缘", "哑光水粉", "编辑式文字"],
+    "good": [
+      "形状能被归纳成大块面的场景：街角楼房、海边小屋、停着的电车、一排遮阳伞",
+      "色彩明亮、有记忆点的照片：蓝天下的白墙、彩色门窗、夏天的水果摊",
+      "主体姿态清楚的人物、动物或静物：骑车的人、坐着的猫、桌上的花瓶"
+    ],
+    "poor": [
+      "灰暗、低饱和或夜景照片，提亮后容易失去原本的气氛",
+      "靠细节和纹理取胜的图：毛发特写、刺绣、精密机械",
+      "想要写实透视、3D 渲染、光滑矢量或卡通贴纸效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Modern Geometric Painting",
+    "tagline": "Compresses a photo into bright, matte, slightly hand-edged modernist blocks of geometric colour.",
+    "look": "The subject is not outlined but rebuilt directly from rectangles, trapezoids, triangles, circles and a few free shapes, and it stays recognisable at a glance. Depth comes from overlap, changes of scale and stacked colour fields rather than real perspective or heavy shadow, so the picture sits flat like a paper cut-out collage. Colours come from the brightest, most memorable parts of the photo, lifted and cleaned into clear blue, lake teal, fresh green, warm yellow, coral and peach, painted as matte gouache with faint brush marks on the edges. Only a very short title or phrase appears, set in an editorial typeface with a mid-century print feel and tucked into the whitespace or aligned with the shapes.",
+    "traits": ["Geometric simplification", "Flattened space", "Bright photo colours", "Hand-cut edges", "Matte gouache", "Editorial type"],
+    "good": [
+      "Scenes that reduce to big blocks: a street corner, a seaside cabin, a parked tram, a row of beach umbrellas",
+      "Bright, memorable colour: white walls under blue sky, painted doors and windows, a summer fruit stall",
+      "People, animals or still lifes with a clear pose: someone on a bike, a sitting cat, a vase on a table"
+    ],
+    "poor": [
+      "Dull, low-saturation or night photos, which lose their mood once brightened",
+      "Images that rely on fine detail and texture: fur close-ups, embroidery, precision machinery",
+      "Requests for realistic perspective, 3D rendering, glossy vectors or a cartoon-sticker look"
+    ]
+  },
+  "ja": {
+    "name": "モダン幾何学絵画",
+    "tagline": "写真を、明るくマットで、縁に少し手の跡が残るモダニズムの幾何学色面に凝縮します。",
+    "look": "主役は線でなぞるのではなく、長方形、台形、三角形、円と少しの自由な形にそのまま置き換えられますが、一目で元のものとわかります。奥行きは本物の遠近や濃い影ではなく、重なり、大きさの差、色面の重ねで表し、切り絵のコラージュのように平らです。色は写真のいちばん明るく印象的な部分から取り、澄んだ青、湖の青緑、若草色、暖かな黄、コーラル、ピーチなどに明るく澄ませ、マットなガッシュで塗って縁にかすかな刷毛跡を残します。文字はごく短いタイトルや一言だけで、ミッドセンチュリーの印刷物らしい書体で余白に収めたり色面に揃えたりします。",
+    "traits": ["幾何学的な簡略化", "平面的な空間", "明るい写真の色", "手仕事の不揃いな縁", "マットなガッシュ", "エディトリアルな文字"],
+    "good": [
+      "大きな色面にまとめられる景色：街角の建物、海辺の小屋、停まった路面電車、並んだパラソル",
+      "明るく印象に残る色の写真：青空の下の白い壁、色とりどりの扉や窓、夏の果物屋",
+      "姿勢がはっきりした人物、動物、静物：自転車に乗る人、座る猫、テーブルの花瓶"
+    ],
+    "poor": [
+      "暗く彩度の低い写真や夜景（明るくすると元の空気が失われがちです）",
+      "細部や質感が見どころの画像：毛並みのアップ、刺繍、精密な機械",
+      "写実的な遠近、3D レンダリング、つるっとしたベクター、ステッカー風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "현대 기하 회화",
+    "tagline": "사진을 밝고 무광이며 가장자리에 손맛이 살짝 남은 모더니즘 기하 색면으로 압축합니다.",
+    "look": "주인공은 선으로 따라 그리지 않고 직사각형, 사다리꼴, 삼각형, 원과 약간의 자유로운 면으로 바로 바뀌지만, 한눈에 원래 대상을 알아볼 수 있습니다. 깊이는 실제 원근이나 짙은 그림자 대신 겹침, 크기 차이, 색면의 포개짐으로 표현해 종이 오리기 콜라주처럼 평평합니다. 색은 사진에서 가장 밝고 기억에 남는 부분에서 가져와 맑은 파랑, 호수빛 청록, 연둣빛, 따뜻한 노랑, 코럴, 피치 등으로 밝고 맑게 다듬고, 무광 과슈로 칠해 가장자리에 옅은 붓자국을 남깁니다. 글자는 아주 짧은 제목이나 한 구절뿐이며, 미드센추리 인쇄물 느낌의 서체로 여백에 넣거나 색면에 맞춰 정렬합니다.",
+    "traits": ["기하학적 단순화", "평면적 공간", "밝은 사진 색", "손으로 자른 듯한 가장자리", "무광 과슈", "편집 디자인 글자"],
+    "good": [
+      "큰 면으로 정리되는 장면: 길모퉁이 건물, 바닷가 오두막, 정차한 전차, 줄지어 선 파라솔",
+      "밝고 기억에 남는 색의 사진: 파란 하늘 아래 흰 벽, 알록달록한 문과 창, 여름 과일 가게",
+      "자세가 분명한 사람, 동물, 정물: 자전거 타는 사람, 앉아 있는 고양이, 탁자 위 꽃병"
+    ],
+    "poor": [
+      "어둡거나 채도가 낮은 사진, 야경(밝게 바꾸면 원래 분위기가 사라지기 쉽습니다)",
+      "세부와 질감이 핵심인 이미지: 털 클로즈업, 자수, 정밀 기계",
+      "사실적 원근, 3D 렌더링, 매끈한 벡터, 스티커 같은 카툰 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "لوحة هندسية حديثة",
+    "tagline": "يختصر الصورة في كتل لونية هندسية حداثية زاهية ومطفأة اللمعان، بحواف فيها أثر اليد.",
+    "look": "لا يُرسم العنصر بخطوط محيطية، بل يُعاد بناؤه مباشرة من مستطيلات وأشباه منحرف ومثلثات ودوائر وبضعة أشكال حرة، ويبقى معروفاً من النظرة الأولى. يأتي العمق من التداخل وتفاوت الأحجام وتراكب المساحات اللونية لا من منظور حقيقي أو ظلال ثقيلة، فتبدو الصورة مسطحة مثل كولاج من ورق مقصوص. تُؤخذ الألوان من أزهى أجزاء الصورة وأكثرها حضوراً، وتُصفّى وتُفتَّح إلى أزرق صافٍ وأخضر مزرق وأخضر طري وأصفر دافئ ومرجاني وخوخي، وتُطلى كغواش مطفأ مع آثار فرشاة خفيفة على الحواف. لا يظهر إلا عنوان أو عبارة قصيرة جداً بخط تحريري فيه روح طباعة منتصف القرن العشرين، داخل الفراغ أو بمحاذاة الكتل.",
+    "traits": ["تبسيط هندسي", "فضاء مسطّح", "ألوان زاهية من الصورة", "حواف يدوية غير منتظمة", "غواش مطفأ", "خط تحريري"],
+    "good": [
+      "مشاهد يمكن اختزالها في كتل كبيرة: ناصية شارع، كوخ على الشاطئ، ترام متوقف، صف من مظلات الشاطئ",
+      "صور ألوانها زاهية ولافتة: جدران بيضاء تحت سماء زرقاء، أبواب ونوافذ ملونة، بسطة فاكهة صيفية",
+      "أشخاص أو حيوانات أو أشياء ساكنة بوضعية واضحة: شخص على دراجة، قطة جالسة، مزهرية على طاولة"
+    ],
+    "poor": [
+      "الصور الباهتة أو قليلة التشبع أو الليلية، إذ تفقد أجواءها عند تفتيحها",
+      "صور تعتمد على التفاصيل الدقيقة والملمس: لقطات قريبة للفرو، التطريز، الآلات الدقيقة",
+      "طلب منظور واقعي أو تصيير ثلاثي الأبعاد أو متجهات لامعة أو مظهر ملصقات كرتونية"
+    ]
+  }
+}

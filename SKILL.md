@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-093
-description: "Create XXD Panel 093 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-093 or requests the exact Panel 093 style."
+description: "XXD Panel 093｜Modern Geometric Painting: compresses the subject, outline, pose and story of a photo into a mid-century modernist flat illustration — the subject itself built from rectangles, trapezoids, triangles, circles and a few free shapes, flattened space made by overlapping and scale rather than perspective, large matte gouache or acrylic colour fields with slightly irregular hand-cut edges, bright colours lifted from the photo (clear blue, lake teal, fresh green, warm yellow, coral, peach, soft violet, cream) and a few words in a humanist mid-century editorial typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-093 or asks for geometric, flat, mid-century modernist or naive editorial illustration from a photo."
 ---
 
 # XXD Panel 093
